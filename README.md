@@ -1,4 +1,4 @@
-# 🛡️ DIGIBHEM — Digital BHEEM Fake News Detection System
+# 🛡️ FAKE NEWS Detection System
 
 > ⚡ *Combating misinformation, one article at a time.*
 
@@ -11,7 +11,7 @@
 
 ## 🧠 Overview
 
-**DIGIBHEM** (Digital BHEEM) is an AI-powered platform built during an internship project to detect **Fake News** using a fine-tuned **BERT** model. It provides a secure, easy-to-use web interface with real-time predictions and confidence scores.
+**FAKENEWS_DETECTION** is an AI-powered platform built during an internship project to detect **Fake News** using a fine-tuned **BERT** model. It provides a secure, easy-to-use web interface with real-time predictions and confidence scores.
 
 ---
 
