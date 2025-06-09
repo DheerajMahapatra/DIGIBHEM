@@ -101,8 +101,7 @@ streamlit run app.py
 |-----------------|---------------|--------------|--------------|
 |  Input_Screen   |   Real News   |	  Fake News  |	  History   |
 |-----------------|---------------|--------------|--------------|
-| ![Input_SCreen](https://raw.githubusercontent.com/DheerajMahapatra/DIGIBHEM/main/Images/Input_Screen.jpg) | ![Real_News](https://raw.githubusercontent.com/DheerajMahapatra/DIGIBHEM/main/Images/Real_News.jpg) | 
-![Fake_News](https://raw.githubusercontent.com/DheerajMahapatra/DIGIBHEM/main/Images/Fake_News.jpg) | ![History](https://raw.githubusercontent.com/DheerajMahapatra/DIGIBHEM/main/Images/History.jpg) |
+| ![Input_SCreen](https://raw.githubusercontent.com/DheerajMahapatra/DIGIBHEM/main/Images/Input_Screen.jpg) | ![Real_News](https://raw.githubusercontent.com/DheerajMahapatra/DIGIBHEM/main/Images/Real_News.jpg) | ![Fake_News](https://raw.githubusercontent.com/DheerajMahapatra/DIGIBHEM/main/Images/Fake_News.jpg) | ![History](https://raw.githubusercontent.com/DheerajMahapatra/DIGIBHEM/main/Images/History.jpg) |
 
 ---
 
